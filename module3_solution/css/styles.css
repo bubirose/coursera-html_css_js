@@ -1,0 +1,20 @@
+.navbar-item {
+	text-align: center;
+}
+.col-xs-12{
+	background-color: #309873;
+	color: white;
+	height: 1000px;
+	padding-top: 10px;
+}
+h4 {
+	margin-top: 3px;
+}
+@media (max-width: 767px) {
+	.navbar-collapse {
+		background-color: #309873;
+	}
+	.navbar-default .navbar-nav>li>a {
+		color: white;
+	}
+}
